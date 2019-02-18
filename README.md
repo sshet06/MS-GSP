@@ -4,7 +4,10 @@ The algorithm is used in "Market basket data analysis "for finding sequential pa
 
 It is improvised version of GSP ( which is based on Aprior Algorithm) as it takes into account the “time constraint”.
 
-Input:
+### Input:
 A set of transactions made by each customer,minimum support threshold given for each item, support difference constraint.
-Output:
-The algorithm will output the frequent item sets. 
+
+### Output:
+The algorithm will output the frequent item sets along with support count.
+
+
